@@ -2,7 +2,6 @@ import json
 import time
 import random
 import threading
-import paho.mqtt.client as mqtt
 
 BROKER = "test.mosquitto.org"
 PORT = 1883
