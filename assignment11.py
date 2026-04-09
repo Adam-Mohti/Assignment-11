@@ -47,7 +47,7 @@ def print_data(data: dict):
     print("-------------------------\n")
 
 
-# Suscribe
+# Subscribe
 
 def handle_message(client, userdata, message):
     try:
